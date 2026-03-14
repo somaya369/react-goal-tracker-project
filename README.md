@@ -86,21 +86,6 @@ When Persian is selected, the entire UI flips to RTL mode, including text alignm
 - **Level Calculation**: Level = floor(XP / 200) + 1
 - **Purpose**: Provides long-term progression and achievement tracking
 
-## Screenshots
-
-### Desktop View
-![Dashboard Desktop](screenshots/dashboard-desktop.png)
-*Main dashboard showing goals overview, statistics, and quick actions*
-
-![Goals List Desktop](screenshots/goals-list-desktop.png)
-*Goals list with filtering and sorting options*
-
-### Mobile View
-![Dashboard Mobile](screenshots/dashboard-mobile.png)
-*Responsive dashboard optimized for mobile devices*
-
-![Goal Details Mobile](screenshots/goal-details-mobile.png)
-*Goal details page with progress tracking on mobile*
 
 ## Technologies Used
 
